@@ -1,5 +1,9 @@
-s = "badfsaser"
+list = [1, 2, 3, 4, 5]
 
-s = sorted(s)
+print(list)
 
-print(s)
+last = list.pop()
+
+print(last)
+
+print(list)
